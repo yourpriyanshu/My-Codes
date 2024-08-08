@@ -10,3 +10,17 @@ class Solution {
 
     }
 };
+
+// class Solution {
+//   public:
+//   int count=0;
+//     void printNos(int N) {
+//         // code here
+//         if(count==N) return;
+//         count++;
+//         printNos(N);
+//         cout<<count<<" ";
+//         count--;
+
+//     }
+// };
